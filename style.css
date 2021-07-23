@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+
+body header h1 {
+  text-align: center;
+}
+
+body header nav {
+  text-align: center;
+}
+
+body header nav a {
+padding: 10px;
+background-color: yellowgreen;
+}
+
+section#featured-property {
+  text-align: center;
+}
+
+section#featured-property figure figcaption {
+  text-align: center;
+  font-size: 16px;
+}
+
+section#featured-property p {
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+  width: 800px;
+}
+
+section#details div {
+  float: left;
+  text-align: center;
+  width: 25%;
+  background-color: yellowgreen;
+}
+
